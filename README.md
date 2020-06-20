@@ -2,7 +2,9 @@
 
 
 
-Vídeo explicativo: https://www.youtube.com/watch?v=YMyZ9gZI8io&feature=youtu.be
+Vídeo explicativo Structura: https://www.youtube.com/watch?v=YMyZ9gZI8io&feature=youtu.be
+
+Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=youtu.be
 
 **Importante:** La base de datos está online.
 
