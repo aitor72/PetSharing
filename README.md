@@ -1,4 +1,14 @@
-PetSharing
+# PetSharing
+
+
+
+Vídeo explicativo: https://www.youtube.com/watch?v=YMyZ9gZI8io&feature=youtu.be
+
+**Importante:** La base de datos está online.
+
+
+
+### Por hacer:
 
 System must contemplate three types of users:
 
