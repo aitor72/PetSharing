@@ -38,7 +38,9 @@ Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=yo
 
 
 
-● An admin user can edit/delete:
+● An admin user can:
 
-- [ ] User accounts
-- [ ] Personal pages, profiles and Tweets
+- [X] Delete User accounts
+- [ ] Edit User accounts
+- [X] Delete Tweets
+- [ ] Edit Tweets
