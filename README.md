@@ -14,7 +14,7 @@ Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=yo
 
 ● Anonymous users should be able to view:
 
-- [ ] Personal pages of registered users, which shows the public information and
+- [x] Personal pages of registered users, which shows the public information and
   tweets of a particular user.
 - [x] Global timeline which shows either latest or most popular tweets.
 
@@ -33,8 +33,8 @@ Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=yo
   registered users. This could be a “who to follow” page showing a list of
   registered users or they can find users from the global timeline of popular
   tweets. You can also implement a search mechanism for this. 
-- [ ] You should create a view where all the followed users are listed in order to
-  access their public personal page or unfollow them. (FALTA PODER ACCEDIR AL SEU PERFIL)
+- [x] You should create a view where all the followed users are listed in order to
+  access their public personal page or unfollow them. 
 
 
 
