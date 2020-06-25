@@ -16,18 +16,32 @@ Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=yo
 
 - [x] Personal pages of registered users, which shows the public information and
   tweets of a particular user.
+  VALIDAT --> [X] Un cop a Global si cliquem sobre el nom d'usuari podem anar al seu perfil
+              [X] Dins del perfil podem veure la info de l'usuari (usuari, tipus d'animal i aniversari)
+              [X] També podem veure els tweets que ha publicat aquell usuari
+
 - [x] Global timeline which shows either latest or most popular tweets.
+ VALIDAT --> [X] A Global veiem tots els tweets de tots els usuaris registrats ordenats cronologicament-
 
 
 ● Registered users should be able to view:
 
-- [x] Personal pages of registered users.
+- [x] Personal pages of registered users. 
+  VALIDAT --> [X] Clicant al nom d'usuari podem accedir al seu perfil.
 - [x] Their profile, where they can view and edit their own information (e.g. Name,
   username, profile picture etc.),
-  (TENIM L'EDIT USER A PART PERO ESTA FET)
+  VALIDAT --> [X] Tenim on hi ha el nom d'usuari al menu on es pot veure la info del usuari i els seus tweets
+              [X] A Edit User podem editra la info de l'usuari: nom, tipus animal i aniversari.
+              [X] La foto de perfil: es canvia automaticament al canviar el tipus d'animal
+             Tenim seperat el perfil i l'edicio del perfil pero està tot fet.
 - [X]  Global timeline.
-- [x] Personalized timeline which shows tweets only from the users they follow. (ÉS LA HOME)
+  VALIDAT --> [X] Al menu tenim l'apartat Global on podem veure els tweets de tots els usuaris independentment de si els seguim o no
+- [x] Personalized timeline which shows tweets only from the users they follow.
+VALIDAT --> [X] Al menu, a la dreta trobem PetSharing on hi trobem els tweets dels usuaris que seguim.
 - [x] Each user can publish tweets, edit and also delete them.
+VALIDAT --> [X] Cada usuari pot publicar tweets
+            [X] Editar els seus propis tweets
+            [X]  Eliminar els seus propis tweets
 - [X]  Users can follow/unfollow other users.
 - [x] There should be a mechanism for new users to find and follow other
   registered users. This could be a “who to follow” page showing a list of
