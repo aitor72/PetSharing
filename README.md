@@ -27,7 +27,7 @@ Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=yo
   (TENIM L'EDIT USER A PART PERO ESTA FET)
 - [X]  Global timeline.
 - [x] Personalized timeline which shows tweets only from the users they follow. (ÉS LA HOME)
-- [ ] Each user can publish tweets, edit and also delete them.(FALTA EDIT)
+- [x] Each user can publish tweets, edit and also delete them.
 - [X]  Users can follow/unfollow other users.
 - [x] There should be a mechanism for new users to find and follow other
   registered users. This could be a “who to follow” page showing a list of
@@ -41,6 +41,6 @@ Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=yo
 ● An admin user can:
 
 - [X] Delete User accounts
-- [ ] Edit User accounts
+- [x] Edit User accounts
 - [X] Delete Tweets
-- [ ] Edit Tweets
+- [x] Edit Tweets
