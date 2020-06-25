@@ -17,9 +17,10 @@ Vídeo Situación actual: https://www.youtube.com/watch?v=Yo9JDw6grYU&feature=yo
 - [x] Personal pages of registered users, which shows the public information and
   tweets of a particular user.
   
-  - VALIDAT --> [X] Un cop a Global si cliquem sobre el nom d'usuari podem anar al seu perfil
-              [X] Dins del perfil podem veure la info de l'usuari (usuari, tipus d'animal i aniversari)
-              [X] També podem veure els tweets que ha publicat aquell usuari
+  - VALIDAT 
+    - [X] Un cop a Global si cliquem sobre el nom d'usuari podem anar al seu perfil
+    - [X] Dins del perfil podem veure la info de l'usuari (usuari, tipus d'animal i aniversari)
+    - [X] També podem veure els tweets que ha publicat aquell usuari
               
 
 - [x] Global timeline which shows either latest or most popular tweets.
